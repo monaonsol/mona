@@ -22,7 +22,7 @@ CoinGecko
 https://www.coingecko.com/en/coins/mona
 
 Dexscreener  
-https://dexscreener.com/solana/2bdgvamays5
+https://dexscreener.com/solana/2bdgvamays5q3tx5zzglkexpnhbnnvjxeqsiutiy5rvd
 
 Pump.fun  
 https://pump.fun/coin/766whddpsQHS8wy7viUfmuGPrMri1kgGMFwfZMdepump
