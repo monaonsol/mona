@@ -1,50 +1,36 @@
-# MONA 🟫🐈
-Forgotten by History — The Cat who watched the Renaissance unfold.
+# MONA on Solana
 
-MONA is a community-driven project built on Solana inspired by the mysterious cat that quietly witnessed the Renaissance.
+A premium cinematic Web3 landing page that blends Renaissance art with modern crypto culture. Sections are styled like ancient parchment scrolls with smooth scrolling and scroll-triggered animations.
 
-Our goal is to build a strong community and create engaging campaigns.
+## Run locally
 
----
+```bash
+npm install
+npm run dev
+```
 
-## Official Links
+Then open http://localhost:5173
 
-Website  
-https://monaonsol.io
+## Build
 
-Twitter  
-https://x.com/mona_on_sol
+```bash
+npm run build
+npm run preview
+```
 
-Telegram  
-https://t.me/monaofficialgroup
+## Stack
 
-CoinGecko  
-https://www.coingecko.com/en/coins/mona
+- **React** + **Vite**
+- **Lenis** — smooth scrolling
+- **Framer Motion** — section fade-in, hero entrance
+- **GSAP ScrollTrigger** — parallax background, scroll text reveal, subtle emblem zoom
 
-Dexscreener  
-https://dexscreener.com/solana/2bdgvamays5
+## Sections
 
-Pump.fun  
-https://pump.fun/coin/766whddpsQHS8wy7viUfmuGPrMri1kgGMFwfZMdepump
+- **Hero** — MONA emblem with scroll-triggered zoom
+- **How to Buy** — “Acquire the Forgotten Cat” (steps + Pump.fun, Jupiter, Dexscreener)
+- **Community** — “Join the Renaissance”
+- **Roadmap** — “The Next Chapter” (Phases I–IV)
+- **Footer** — quote + X, Telegram, Dexscreener, CoinGecko
 
----
-
-## Contract Address
-
-766whddpsQHS8wy7viUfmuGPrMri1kgGMFwfZMdepump
-
-Always verify the contract address from official sources.
-
----
-
-## About MONA
-
-MONA represents the forgotten cat that silently observed the Renaissance unfold.
-
-The project focuses on community growth, partnerships, and listings.
-
-Early believers will always be remembered.
-
----
-
-🟫🐈 Forgotten by History! The Cat who watched the Renaissance unfold.
+Update the placeholder social links (X, Telegram) in `src/App.jsx` with your real URLs when ready.
