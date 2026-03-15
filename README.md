@@ -41,7 +41,7 @@ Always verify the contract address from official sources.
 
 MONA represents the forgotten cat that silently observed the Renaissance unfold.
 
-The project focuses on community growth, partnerships, listings, and rewarding early supporters.
+The project focuses on community growth, partnerships, and listings.
 
 Early believers will always be remembered.
 
